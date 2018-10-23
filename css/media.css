@@ -1,0 +1,49 @@
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (max-width: 1199px) {
+
+}
+
+/* Large devices (desktops, 992px and up)*/
+@media (max-width: 991px) {
+    .header h1{
+        text-shadow: 3px 5px 0px #1d316d;
+    }
+    .header .btn-reg{
+        background-color: #64fff3;
+        color: #000;
+    }
+}
+
+/* Medium devices (tablets, 768px and up)*/
+@media (max-width: 767px) {
+    .content-index .wrapper-2 .heading{
+        font-size: 56px;
+        line-height: 60px;
+    }
+    .content-index .wrapper .info-block-head{
+        padding: 10px;
+    }
+    .header .img{
+        display: none;
+    }
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (max-width: 575px) {
+    .content-index .wrapper-2 .heading{
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .header h1{
+        font-size: 35px;
+        line-height: 50px;
+    }
+    .header .btn-reg{
+        font-size: 22px;
+        padding: 20px 42px;
+    }
+}
+
+
+
+

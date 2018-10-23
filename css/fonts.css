@@ -1,0 +1,14 @@
+/* font-family: "RobotoRegular"; */
+@font-face {
+	font-family: "Raleway";
+	src: url("../fonts/Raleway/RalewayRegular.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: "Raleway";
+	src: url("../fonts/Raleway/RalewayBold.ttf") format("truetype");
+	font-style: normal;
+	font-weight: 700;
+}
